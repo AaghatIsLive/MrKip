@@ -1,6 +1,8 @@
 # MrKip 
 
-You can test this out by forking this repo and creating a codespace, type `node index.js` in the terminal to get your bot running
+You can test this out by forking this repo and creating a codespace, type `node index.js` in the terminal to get your bot running.
+
+**See how here:** [step by step example with gifs](https://scribehow.com/shared/Setting_up_Discord_bot_with_MrKip_repository_on_GitHub___n0zWbOTS0-ZxqA9HpdDxA)
 > Remember to paste in your bot token, follow the steps in Setting up a bot application
 
 you should definitely checkout https://v12.discordjs.guide/creating-your-bot/#creating-the-bot-file to get a better understanding, or ask me on discord :)
